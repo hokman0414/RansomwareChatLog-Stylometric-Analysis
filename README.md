@@ -1,6 +1,5 @@
 # RansomwareChatLog-Stylometric-Analysis
 Conducting stylometric analysis on ransomware negotiation chat logs
 
-Here are all the files scanned on Copyleaks: https://app.copyleaks.com/report/kbp22a8ze7m7kuo1/preview?key=1gg2v3lmhzrnk43i&folderId=09gkdo7hgn103vrr
-
+Here are all the files scanned on Copyleaks: DM me on Linkedin for access to all files already scanned: https://www.linkedin.com/in/calvinso1/
 Tracking Sheet: https://docs.google.com/spreadsheets/d/1XQGIhAbXeUQGj7TZq3urmN70oW5mGAsnyk4obak2RFg/edit?usp=sharing

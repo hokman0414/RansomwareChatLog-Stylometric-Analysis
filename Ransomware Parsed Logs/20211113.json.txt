@@ -1,0 +1,63 @@
+Hello and welcome to Hive.
+How may I help you?
+Hello
+To decrypt your files you have to pay $20,000,000 in Bitcoin.
+We don't provide any hashes. Every time the software is unique. There is  no need of hashes here. It will not help anyway.
+If you want a discount I would like to see for how much
+I'll share with you later when my teammate will be online.
+I don't know. Maybe today
+Okay, I'll do my best
+I have uploaded the list of exfiltrated files.
+It's at the left panel titled Uploaded files
+I uploaded a list of files not the files themselves
+We are well-known organization. We honor our agreements. There is no point in the blacklist right now. You need to concentrate on how to collect money.
+I have another option for you. You will give me your email address (protonmail is preferred) and I'll send you new credentials to login. Then I'll upload the encryptor to VirusTotal and provide you a link to it. All necessary hashes will be available there. 
+But to prevent others to login to your customer website you have to get new credentials first.
+Thank you
+The encryptor didn't uploaded yet, looking for it rn.
+What do you mean about creds? From what?
+It was necessary because whether I upload the encryptor other researchers will be able to login and read your conversation.
+It's a potential data leakage so I have prevented it
+Here is safe now
+https://www.virustotal.com/gui/file/12baa6c83e6f8b059e7f14cb67bdad4e917b90bc8a139b5379a4b42a0c92a6be?nocache=1
+Actually I didn't spend too much time to hide it but I will
+What a recovery company are you from?
+I got it
+Unfortunately for them there are only two options: 
+1) start from a scratch
+2) purchase the decryption software from us
+Recovery companies no matter what they say can't decrypt.
+For ESXi servers it's not possible
+The encryptor software rewrites the key from memory.
+Array of bytes in memory where the key resides in rewrites to prevent such operation
+For all of course
+Encryptor even don't know anything about private keys. It only has public keys. Public keys need to encrypt random field which uses in encryption process.
+In my opinion spending money to external IT companies will only waste your valuable time.
+Yes, your company has $2B revenue. We usually rate 1% of revenue
+We have 32 Gb total. 
+Almost all AntiViruses are useless against real hackers.
+There is a spotted encryption mechanism. If you are talking about ESXi files then I don't think they can. Some text files - yes
+It's true. First 4Kb, the last, and a few blocks in the middle
+I didn't compare it with lockbit but my software is quite fast, especially ESXi
+How is it going with decision making?
+It's very simple. ESXi files especially virtual drives are very fragile. Even few changes make them unreadable because it has a binary structure.
+ESXi was encrypted using spot method. 4 Kb of beginning of the files, 4 Kb of ending of the file and along file. Totally 100 Kb over the each file is encrypted. It's a quite enough.
+When encryptor starts it creates a random field which will be used in encryption process. It is static. After encryption process finishes it rewrites to prevent restoration process. RSA keys private and public only use to encrypt/decrypt the random field. Only knowing the field it's possible to decrypt files. Encryptor has only public RSA keys, decryptor - private RSA keys.
+No, a truly cryptographic random field.
+Of course not PRNG:)
+Actually I already disclose you a lot of details which was never disclosed to anyone. I think it's enough to make a decision.
+AES is a chiper, I use a different one - some kind of Vernam's chiper. It's impossible to decrypt without knowing the keys.
+In simplified version the key used to encrypt all files. It exports to the disk using a few RSA public keys applied. Then encryption process follows. After that the key rewrites to prevent recovery from memory. 
+
+Decryption software has RSA private keys to initially decrypt the exported key.
+I made an offer at the right panel
+No
+We are all honest who works at Hive
+Yes, we attack every targets, we have no limits here. It's not related with honesty
+Don't worry you have time. Tell me how is it going with upper management please
+Hi, how is it going?
+I'm good too. I just wanted to know to what direction your company inclined right now. 
+
+By the way, what about a recovery process from memory from recovery company you told earlier?
+Let's play with the price. I think both your management and our side want to resolve this as quick as possible
+I can offer you $3,000,000 in Bitcoin.

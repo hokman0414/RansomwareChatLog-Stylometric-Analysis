@@ -1,0 +1,69 @@
+Hello
+Yes, we can decrypt your all files
+When will you pay? You don't have much time left to pay with a discount
+Yes. We will send the decrypted files shortly
+First
+            
+
+[redacted].jpg
+60.71 kB
+Second
+            
+
+[redacted].jpg
+14.66 kB
+Third
+            
+
+[redacted]_T.jpg
+8.67 kB
+If you pay within the next 24 hours we can give you $25,000 discount, but not more.
+$250,000 and we will finish this very quickly
+We didn't take data.
+Confirmed.
+Write after sending payment.
+Linux decryption instruction:
+1. Upload decryptor to esxi.
+2. Set run permissions: chmod 777 decryptor
+3. Run decryptor: ./decryptor 
+            
+
+lin_decryptor.out
+2.3 MB
+The decryptor works in 2 modes:
+1. GUI
+2. Console
+
+Three functions are available in GUI mode:
+1. "DECRYPT ALL" - search and decrypt ALL encrypted files on the local 
+PC and on network resources (Shares), where this PC has access.
+2. "DECRYPT FOLDER" - decrypts files in the specified folder, which you 
+can select in the "Browse for folders" window or drag and drop the 
+folder into the decryptor window.
+3. "DECRYPT ONE FILE" - decrypts a single file, which you can open in 
+the "Open" window or drag and drop the encrypted file into the decryptor
+ window.
+
+IMPORTANT!
+Extension of encrypted files may not coincide with the extension of files, which the decryptor suggests to open!
+To open encrypted files with other extensions, in the "Open" window 
+select, in the lower right corner of "All Files (*. *)" or just drag and
+ drop the given file into the decryptor window.
+File extension does not affect the decryption of file!
+
+Console mode has two parameters:
+1. "-all" - search and decrypt ALL encrypted files on the local PC and on network resources (Shares), where this PC has access.
+You can also use Group Policy to quickly decrypt your entire network.
+2. "-path" - decrypts files in the specified folder or a single file.
+3. Dragging and dropping an encrypted file or folder with encrypted files onto the decryptor file.
+In this mode, the console window will open automatically, which will display the decryption process.
+
+Command line examples:
+> decryptor.exe -all
+> decryptor.exe -path C:\Folder
+> decryptor.exe -path C:\Folder\file.txt.[redacted]
+            
+
+win_decryptor.exe
+76.5 kB
+You have 48 hours for support. After that, this chat will be deleted.

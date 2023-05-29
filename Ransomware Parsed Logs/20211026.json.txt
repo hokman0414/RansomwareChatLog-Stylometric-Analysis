@@ -1,0 +1,310 @@
+Hello and welcome to Hive.
+How may I help you?
+To decrypt your files you have to pay $3,500,000 in Bitcoin. The price is not a subject to discuss.
+It's clearly the price is $3.5M
+We also have exfiltrated files which will be disclosed in case of refusing to pay.
+To convince you to pay we can make calls to your partners to notify them about the incident.
+The price is not a subject to discuss.
+We performed files analysis. The impact of disclosure and undecryptable files will cost you few times more then $3.5M.
+To prove that we have exfiltrated files I give you a sample archive.
+
+https://privatlab.com/s/v/NQqR2jo2B7SyQeBnp5y4
+I'll fix the number at the company's profile but it will not change anything.
+We will not wait forever. You have to decide.
+Let me explain to you something.
+There is no other way to decrypt files other then to purchase the decryption software. The attempts to use something different then original software MAY cause irreversible damage. Your files will be unable to decrypt!
+I offer you $2,500,000 and it's valid until the end of the weekend.
+To prove the decryption software works you may upload few encrypted files and a key related to them. It usually locates at C:\*.key.* or at root of a shared folder
+You may purchase Bitcoin here -  https://www.kraken.com/
+
+Just create a new business account and make SEPA-payment.
+After registration and SEPA-payment you should immediately contact to Kraken Support and raise the withdrawal limit to $2.5M per 1 BTC transaction.
+Yes, and then upload encrypted files which contain 4igKANBkvldLbBKaHpLIOSo-[redacted]*.[redacted]
+Upload few encrypted files with a key. You don't have to upload full folder.
+I have uploaded one file and others, I see they contain important info. I can mask some data in it^
+
+Passphrase : XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+Vault      : Serverdom
+Machine    : SERVERDOM
+Name	Type	Data	Timestamp
+_msdcs			
+_sites			
+_tcp			
+_udp			
+DomainDnsZones			
+ForestDnsZones			
+(same as parent folder)	Host (A)	192.168.YYY.XXX	03/07/2019 19:00:00
+(same as parent folder)	Host (A)	192.168.YYY.XXX	01/09/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	20/06/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/06/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/06/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/06/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	13/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+Backups	Host (A)	192.168.YYY.XXX	static
+Backups2	Host (A)	192.168.YYY.XXX	29/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	12/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	12/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	18/06/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 19:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	23/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	22/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 3:00:00
+Gestion	Host (A)	192.168.YYY.XXX	28/08/2019 8:00:00
+[redacted]	Host (A)	10.0.0.11	static
+[redacted]	Host (A)	10.0.0.12	static
+[redacted]	Host (A)	10.0.0.13	static
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	23/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+LAPTOP-[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 13:00:00
+LAPTOP-[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 19:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 17:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 22:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	13/08/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/08/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/07/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	24/07/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 17:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/08/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	07/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	16/07/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	16/07/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	24/07/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/07/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	17/07/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	22/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 17:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 10:00:00
+[redacted]SRV	Host (A)	192.168.YYY.XXX	31/08/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 20:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 22:00:00
+[redacted]SRV	Host (A)	192.168.YYY.XXX	08/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/08/2019 14:00:00
+NAS-2	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	04/07/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 2:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+PRESTA[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 19:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 7:00:00
+[redacted]-HP	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 5:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 12:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 13:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 8:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 11:00:00
+serverdom	Host (A)	192.168.YYY.XXX	static
+Server[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+ServerEditorial	Host (A)	192.168.YYY.XXX	05/09/2019 13:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+servergit	Host (A)	192.168.YYY.XXX	static
+ServerHCM	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	11/08/2019 8:00:00
+serverjava	Host (A)	192.168.YYY.XXX	static
+SERVERMD	Host (A)	192.168.YYY.XXX	08/09/2019 8:00:00
+ServerMonPrint	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+serverpc	Host (A)	192.168.YYY.XXX	static
+serverphp	Host (A)	192.168.YYY.XXX	static
+serverrails	Host (A)	192.168.YYY.XXX	static
+ServerRDP	Host (A)	192.168.YYY.XXX	25/08/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 9:00:00
+SERVERSAP	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	30/06/2019 6:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 8:00:00
+SERV[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+Servervpn	Host (A)	192.168.YYY.XXX	25/08/2019 15:00:00
+serverweb	Host (A)	192.168.YYY.XXX	static
+ServerWebW1Apps	Host (A)	192.168.YYY.XXX	static
+SERVERWSUS	Host (A)	192.168.YYY.XXX	26/08/2019 8:00:00
+Srv[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 15:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 15:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 8:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 11:00:00
+srv[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 22:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]ADMIN01	Host (A)	192.168.YYY.XXX	21/06/2019 9:00:00
+WIN-[redacted]	IPv6 Host (AAAA)	2002:1400:0122:0000:0000:0000:1400:0122	static
+(same as parent folder)	Name Server (NS)	serverdom02.[redacted].local.	static
+(same as parent folder)	Name Server (NS)	serverdom.[redacted].local.	static
+(same as parent folder)	Start of Authority (SOA)	[222783], serverdom.[redacted].local., hostmaster.[redacted].net.	static
+All you need is to see that I have decrypted it. There is nothing to validate more
+I will not to disclose you any sensitive files until payment will be made. Select other files if you still do not believe that the decryption software works.
+I need to hear an update from you today
+I'm sure this situation will be resolved

@@ -1,0 +1,38 @@
+Hello. Thanks for fast answer. I think you already understood what happened. All your infrastructure was encrypted, also we extracted all your sensitive information about company/employees/billings and etc. After inspecting your docs we setted up our price - 500.000$. This price include few things: 1. Decryption tool; 2. Proofs of deletion files; 3. Full attack chain to fix your vulnerabilities in network.
+We accept just cryptocurrencies, you can choice, usual Bitcoin or more confidential for both - Monero.
+You can google our name and im sure you will not find incidents where we didn't complete our promise. Because we care about our reputation. So you can be calm.
+Otherwise everyone will can to download all your data from our blog, and you will need to restore your network from 0.
+What file you trying?
+I'll find out what the problem is, wait please. You will get answer soon as possible.
+Yeah, it's our fault, there's problem with trial decrypt's and we trying to repair this. While you are waiting you can view at listing of stolen files. For your calm you can choice any few files and i will send it here. Im so sorry for this problem, we doing all to fix this asap.
+https://file.io/uMrIbA0ktsDx  Password: !_OSM_!
+Hello, have you read the list of stolen files?   As for the test decrypt, send us 10-20 small encrypted files and we'll see what's wrong.   If you have contacted recovery specialists, it's a waste of time, they usually only make the overall situation worse and make it harder to communicate.  We are waiting for the files.
+Hello. We still have not received an archive of files from you to check. We are running out of time, we are ready to help if you cooperate. We also want to let you know that in 24 hours all the stolen information will be uploaded to the servers, and in another 48 hours,  it will be published on our blog. We need 20-30 files up to 50kb for verification, please prepare an archive and give it to us if you plan to solve the problem.
+Ciao. Puoi prendere meno di 30 file, abbiamo bisogno di alcuni file fino a 50kb, anche se sono meno di quelli richiesti. Questi possono essere assolutamente qualsiasi file.
+Osservare attentamente. Potrebbero esserci file di icone, file di configurazione, script, file ausiliari. Cercateli, è nel vostro interesse.  Non è necessario inviare una macchina virtuale). Avete provato a ripristinare i file? Siate consapevoli che potreste romperli se li mettete nel decriptatore di qualcun altro.
+Accedere al NAS utilizzando SFTP e cercare lì, saranno anche adatti per i test.
+Se non riuscite a trovare nulla, potete inviare i file di log delle macchine virtuali, anche se pesano un po' di più - comprimeteli in un archivio e inviateli a noi.
+"BACKUP STORICO OMSSBS1.vbm" - 9.99kb Si può provare a decifrarlo con un test, se non funziona, inviatemelo
+OK darò un'occhiata, allora facciamo in un altro modo. Mettere questi file in un archivio: Tutti i file della cartella "VeeamConfigBackup> VEEAM-SRV", che hanno una dimensione di ~5MB e sono chiamati "VEEAM_SRV_2023-02-24_10-00-14.bco.lockbit". Anche il file "BACKUP STORICO OMSSBS1.vbm.lockbit", e il file "BACKUP DATACENTER.vbm.lockbit". Caricateli qui ( http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/ )e datemi il link
+Avete inviato password identiche. Entrambi non si adattano
+Ok. Vedrò qual è il problema e riferirò in merito
+give me please uname -a command in cmd
+Salve. Abbiamo bisogno della sua risposta e della sua collaborazione, perché ci sta mettendo così tanto a rispondere?
+Non vogliamo farvi pressione, chiamarvi e ricattarvi, non è professionale.  Se volete risolvere il problema, siete pregati di collaborare con noi, altrimenti potete lasciare la chat e farvi gli affari vostri, mentre noi ci occupiamo dei nostri: pubblicare e distribuire informazioni rubate.
+Wait please
+Salve. Abbiamo controllato i vostri file, la decriptazione è completamente possibile. Abbiamo esaminato tutti i file forniti e siamo certi che tutto funziona. Il nostro capo fornirà i file decriptati a breve, si prega di attendere.
+http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/r/8KpBTcau0o#XrIRVvoamGTfr2ahKA8dkAenJLqhLOi5LCaA0CU2u88=
+Decrypt done
+Ciao. Abbiamo soddisfatto la vostra richiesta e mostrato la possibilità di decriptare i file, come potete vedere qui sopra.  Attendiamo la sua risposta.
+password 8Zo6#^4@GOn@JpKC*ghH
+Mantenere la calma. Non è un errore, non abbiamo volutamente dato subito la password per testare il vostro interesse per l'archivio e per vedere quando lo visualizzerete.  Noi siamo online e vediamo tutto e siamo pronti ad aiutarvi non appena ne avrete bisogno. La password è qui sopra, controllate i vostri file.
+Siete riusciti a controllare i vostri file?
+aspettiamo di sentirvi in questo momento.
+La vostra scelta di rimanere in silenzio è sbagliata. Stiamo iniziando a preparare le informazioni rubate per la pubblicazione sul blog, avete sempre meno tempo per risolvere i vostri problemi.
+Il nostro capo ha accettato di eseguire un altro recupero di prova. Vi preghiamo di fornire al più presto alcuni piccoli file.
+Abbiamo già decifrato i vostri file VBM, sono unici e non possono essere presi da un altro sistema. ( https://helpcenter.veeam.com/docs/agentforwindows/userguide/backup_files.html?ver=60 )  Abbiamo crittografato NAS ed ESXI. Tutto ciò che potete fare in aggiunta è cercare di trovare alcuni file di registro della macchina virtuale o del NAS unici e inviarceli.  In ogni caso avete 36 ore di tempo per pensarci, poi inizieremo a pubblicare i dati della vostra azienda sul nostro blog.
+Il tempo sta per scadere, avete un'offerta da farci?  Sappiate che temporeggiare nella speranza di ottenere un prezzo inferiore non funzionerà. Se non collaborate con noi, rimuoveremo il decrittore e pubblicheremo gratuitamente i vostri dati sul nostro blog.  Abbiamo bisogno di una risposta forte da parte vostra, affrettatevi.
+"Don't mistake my kindness for weakness. I am kind to everyone, but when someone is unkind to me, weak is not what you are going to remember about me."  Nice, cheeky try, that's how companies die.  Okay, let's play this game together. Be prepared to embarrass yourself in front of the whole world, be sure to include the First and Last Name of your system administrator, everyone will be interested to know who could not tell the difference between decrypted file or not, after that he is waiting for a brilliant career advancement.  Before you embarrass yourself, you should study who we are. And think about whether you can shake our reputation, or will you have to find a new job?  Good luck. Keep an eye on the blog.
+You'll see your company on our blog soon.
+Benvenuti a LockBit
+http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion/post/m4XcsEUi7pPQBn7k642c604d8d970

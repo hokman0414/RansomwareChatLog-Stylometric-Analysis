@@ -13,4 +13,4 @@ https://github.com/Casualtek/Ransomchats
 
 Building on these observations, we hypothesize that distinct writing styles and consistent linguistic patterns can be identified within ransomware negotiation logs. By applying stylometric analysis to these logs, we aim to attribute specific ransomware attacks to individual operators or groups that consistently appear in these chat exchanges, thus potentially unmasking the identities of the threat actors behind different ransomware strains.
 
-Read My full Blog over here: <insert blog>
+Read My full Blog over here: https://medium.com/@callyso0414/tracing-ransomware-threat-actors-through-stylometric-analysis-and-chat-log-examination-23f0f84abba8

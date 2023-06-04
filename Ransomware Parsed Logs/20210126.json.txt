@@ -1,0 +1,4 @@
+Support: Hello, please introduce yourself and let me know what company do you represent.
+Support: So, are you trying to recover your client's network?
+Support: So, it's a single system? If yes - I am not sure if you will be able to handle our demands, more than that - I have no idea how it could be encrypted, cause according to our records your company was not under attack by our team.
+Support: This exact build code was linked with [redacted]. The requested demand for this code is assigned at $1.2mil

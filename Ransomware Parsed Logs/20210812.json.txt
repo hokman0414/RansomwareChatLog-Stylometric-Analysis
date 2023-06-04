@@ -1,0 +1,48 @@
+This is ContiLocker Team.
+Please, introduce yourself (Company name and your position) and we'll provide all necessary information.
+Sometimes our staff is busy, but we will reply as soon as possible.
+Be in touch, thank you
+As you already know, we penetrated your network and were in it for over 2 weeks (enough to study all your documentation), encrypted your file servers, sql-servers, downloaded all important information weighing over 100 GB: personal data of customers, employees (home addresses, scans of personal documents, phone numbers), consolidated financial reports, studies, payrolls, bank statements.
+The good news is, we're businessmen. We want a ransom for anything that needs to be kept secret, and we don't want to ruin your business.
+The amount at which we are willing to go out on a limb for you and leave everything as collateral is $300,650. After payment, we will give you a tool to decrypt all your machines, a security report on how you were hacked, a file tree of what we downloaded from your network, and a log of the erasure of that information.
+Yes, send 2-3 files to the chat room
+IOS Mitel mobile.docx [ 3.8MB ]
+[redacted] Logo.png [ 26kB ]
+[redacted] Prompts.docx [ 17kB ]
+On Tuesday, we will begin publishing and selling your data. You are only a small loss of profit for us.
+50%.txt [ 5.7MB ]
+You can look at the list, it has half the data we took.
+It is Monday already. We're waiting for your decision.
+24 hours.
+We are here. Your offer?
+$75,000?
+Don't try to cheat us.
+We have got a lot of your data and encrypted your system.
+We have got a serious amount of your contracts and documentation.
+We have the personal data of your employees.
+We got a lot of information about your company from our pentest and OSINT departments.
+And you are trying to offer us a bit more than the yearly salary of a regular manager?
+This sum can cover only a part of the total amount we can get by selling your data and vulnerabilities on auctions.
+Moreover, because we are now aware of your network structure, the next attack can be implemented in a short time.
+It looks like you think we are stupid. Just a simple pentest on your company will cost about $40-50 thousand. And this is a price without stolen data.
+You have one more chance to give us an adequate offer. Otherwise, we will raise the ransom amount.
+We can only give you a small discount, if you decide to pay in 24 hours. Let your price be $250,000.
+Okay, this is closer to a good offer. We can accept $175,000 if payment will be provided in 2 days.
+Okay. Here is Bitcoin address:
+ [redacted]
+Contact us immediately as the payment of $150,000 will be sent.
+After this you will receive the decryption software and recommendations to avoid such an accidents in future.
+Yes
+okay, we are waiting. Bitcoin address is actual; please be attentive, the address is case-sensitive.
+We will work on confirming your payment and after this will make sure that you get everything
+[redacted]_decryptor.exe [ 103kB ]
+Decryptor:  
+1) Launch the decryptor under Administrative rights  
+2) Wait till the decryptor window is closed  
+3) if any of the files haven't changed the extension back to the original - repeat 1 and 2
+Our advice to you. Put a server in the domain that will download daily updates from Microsoft. And once a week or twice a week, distribute updates from this server to all computers and servers on your network. Thus, in the future you will protect your network from known public vulnerabilities. Also install Black Carbon or Sentinel antivirus. Make it a rule to change all important passwords once a month.
+You got a malware virus somewhere on the Internet. We used that tool and accessed your terminal. We received all necessary passwords from over there. The rest was easy.
+We are preparing your data for you. It's okay, we keep our word.
+Mega.nz
+[redacted]@protonmail.com
+[redacted]

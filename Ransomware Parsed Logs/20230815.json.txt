@@ -1,0 +1,81 @@
+> Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon. Do you have a permission to conduct a negotiation on behalf of your organization?
+> Ok, thank you. I will get back shortly with more information.
+> We have to inform you that we are experiencing technical issues at the moment. All the details will be provided on Monday the latest. Our deepest apologies. Meanwhile, to prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back. We offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.
+> List.txt // 9.56 MB
+> This is the list of files of [redacted] company. We are working on transporting files of the rest companies and will provide you with the lists for them soon. We're willing to set a $2,000,000 price for all the services we offer.
+> In a few hours.
+> [redacted]_full_listing.rar // 1.46 MB
+> This is everything we hold.
+> Given the fact that we hold data of two more companies, we've reconsidered the price for the full deal - $2,400,000. Let us know whether you are interested in a test decryption or files for proof. In case of quick payment we can make a discount.
+> Let us know if you are interested in a test decryption and proof files. Waiting for your answer tomorrow.
+> Please keep in mind that tight cooperation with us often leads to a more positive end of a deal.
+> We are waiting for your decision today.
+> Do not forget about files for the test decryption, if you need it.
+> Speed things up on your part and nothing bad will happen.
+> If we don't get your decision within next 24 hours, we will be forced to announce your corporate data leak on our blog.
+> Yes, I've passed the files to my tech dept. Please wait.
+> files.zip // 14.8 KB
+> Here they are. Please check.
+> We have to close the deal this week. Are you in time?
+> Too many files but ok. We will provide shortly. Meanwhile, how's it going with fund gathering?
+> [redacted].rar // 3.12 MB
+> You can review the files.
+> We will check but we actually have some doubts that they are corrupted. If it is an attempt to win more time, nothing good will happen. Please wait.
+> The files are ok. In 24 hours we will announce your corporate data leak on your blog. Early next week your data will be published. Thank you.
+> I'll ask to double check but bear in mind that we are posting you in our blog tomorrow if there is no payment decision from you.
+> We appreciate this offer but all we can do is to give you 20% discount in such circumstances.
+> I have very good news. I was talking to the upper management and they are willing to accept $1,4M today for all the outlined options. On Monday we will have to return to our previous demand. Do we have a deal now?
+> So, I passed your request regarding those files to the tech department. After decryption these same files were increased in size and then re-encrypted. After decryption, the files remained the same size, which means that our decryptor absolutely works correctly. It also means that you tried to play unfairly and gain more time. We also doubt your stories about "good backups". 
+
+Based on all of the above, our offer of $1.4 million when paid today still stands, but we will not accept anything below $2 million on Monday. If you refuse and break the deal, we will simply publish your stuff and forget about you.
+> Please wait.
+> Ok, the leadership has approved that number. Here is a BTC wallet ID for payment: [redacted]
+> How soon are you able to make a transfer?
+> Ok, standing by.
+> We do confirm the terms.
+> Sure.
+> Standing by.
+> Hello. We have received 0.0001 BTC.
+> We have received, thank you. Please wait for the decryptor first.
+> We will provide everything within 24 hours. Thank you for your patience.
+> decrypt.zip // 479 KB
+> decrypt.exe
+Name:
+        decrypt
+
+Usage:
+        cli args
+
+Flags:
+        --path    : Start path
+        --secret  : Private key
+        --logs    : Print logs. Valid values for: trace, debug, error, info, warn. Default: off
+        -h, --help        : Show help
+-----------------------------------------------------------
+Build information:
+Version: 2023.9.5
+SECRET KEY: "[redacted]"
+-----------------------------------------------------------
+decrypt.exe --path  --secret  : Private key --logs 
+----
+decrypt.exe --path C:\ --secret [redacted] --logs trace
+decrypt.exe --secret [redacted] --logs trace
+> Initial access to your network was purchased on the dark web. Then kerberoasting was carried out and we got passwords hashes. Then we just bruted these and got domain admin password. Spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate:
+
+1. None of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. Use strong passwords, change them as often as possible (1-2 times per month at least). Passwords should not match or be repeated on different resources.
+3. Install 2FA wherever possible.
+4. Use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. Update all software versions.
+6. Use antivirus solutions and traffic monitoring tools.
+7. Create a jump host for your VPN. Use unique credentials on it that differ from domain one.
+8. Use backup software with cloud storage which supports a token key.
+9. Instruct your employees as often as possible about online safety precautions. The most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc.
+
+We wish you safety, calmness and lots of benefits in the future. Thank you for working with us and your careful attitude to your security. The evidence of data removal will be provided soon.
+> [redacted] dellogs.rar // 524 KB
+> There are three files in the archive.

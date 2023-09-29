@@ -1,0 +1,68 @@
+> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.
+
+Do you have a permission to conduct a negotiation on behalf of your organization?
+> list.txt.7z // 3.97 MB
+> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.
+> Please let us know whether you are interested in keeping the incident confidential. Your silence will be evaluated as a negative response.
+> You can find yourself in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/ If you want this post to be removed, we have to agree at something.
+> Hello. Can you see messages above?
+> The post will be taken down after payment.
+> [redacted].pdf // 1.66 MB
+> [redacted]letter.doc // 21.4 KB
+> [redacted].xls // 26.4 KB
+> Here are the files. Do you want to give us some files for a test decryption or we can move to payment details?
+> Hello. Let us know if you are interested in this deal. If you don't answer us today, we will have to move to your data uploading to our blog.
+> I will let you know shortly.
+> So, we've gone through your files to define your financial abilities. We've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. We're willing to set a $250,000 price for ALL the services we offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.
+> So, where the files?
+> Hello. We will upload your data to our blog if we don't hear back from you by Monday.
+> We  will upload them later.
+> [redacted].msc // 65.7 KB
+> [redacted].ps1 // 601 Bytes
+> [redacted].ps1 // 915 Bytes
+> [redacted].bat // 49 Bytes
+> The files are decrypted. We need to move to payment details.
+> We are waiting for your reply today.
+> Guys, your 600GB of data will be published soon, in case we don't have a reply from you within 12 hours.
+> We hope so. We won't wait two more days.
+> So what's your decision? We're almost done with uploading.
+> Please stop trying to fool us. Your business able to pays the sum we ask. Show us an offer more than 5 digits and we will be able to settle this. We can move towards you and come down to $200,000.
+> We need 6 figure proposal from you to finalize the deal. We're willing to accept 170,000 for the data we hold.
+> Once we agree on a price and receive payment, you will receive:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+>
+> Standing by for a decent proposal on your part.
+> Hello. We're willing to accept $110,000 as a final. Here is the BTC wallet ID for payment: [redacted]
+> Any progress?
+> Well, your discussions take so much time. I am preparing your files for uploading to our blog. Tomorrow your data will be available for downloading.
+> You will surely receive everything you stated above. When can we expect the transfer?
+> Ok. We can wait until Monday. Update me on your steps.
+> Any updates?
+> You have 24 hours to sort this out. Otherwise, we will be forced to close this case.
+> Hello. Checking on your status.
+> We have received 0.00001 BTC. Standing by for the rest.
+> We have received the funds, thank you. Please wait for all the promised materials.
+> win_unlocker_[redacted].ex_ // 478 KB
+> logs_erase.rar // 6.99 MB
+> Initial access to your network was purchased on the dark web. Then kerberoasting was carried out and we got passwords hashes. Then we just bruted these and got domain admin password. Spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. None of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.
+2. Use strong passwords, change them as often as possible (1-2 times per month at least). Passwords should not match or be repeated on different resources.
+3. Install 2FA wherever possible.
+4. Use the latest versions of operating systems, as they are less vulnerable to attacks.
+5. Update all software versions.
+6. Use antivirus solutions and traffic monitoring tools.
+7. Create a jump host for your VPN. Use unique credentials on it that differ from domain one.
+8. Use backup software with cloud storage which supports a token key.
+9. Instruct your employees as often as possible about online safety precautions. The most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc. We wish you safety, calmness and lots of benefits in the future. Thank you for working with us and your careful attitude to your security.
+> unlocker.exe -p="path_to_unlock"
+unlocker.exe -s="C:\paths.txt"
+where "paths.txt" is a list of paths for the decryptor, each path on a new line
+> The post has been removed.
